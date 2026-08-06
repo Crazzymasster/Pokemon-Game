@@ -1,0 +1,24 @@
+"""
+These files need to be copied from Step 1 and Step 2
+to make Step 4 work (or use imports from those directories).
+
+To complete Step 4, you need:
+
+From Step 1:
+- pokemon_class/pokemon.py
+
+From Step 2:
+- pokemon_class/battle.py
+- utilities/damage_calculator.py
+
+From Step 1:
+- utilities/pokemon_data.py
+
+These can be:
+1. Copied to Step_4 directories
+2. Imported using relative imports if all steps are in same project
+3. Organized in a shared "core" folder
+
+For teaching purposes, copying files to each step folder
+allows students to see the progression independently.
+"""
